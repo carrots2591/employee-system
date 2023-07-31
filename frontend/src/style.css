@@ -1,0 +1,18 @@
+.loginPage{
+    background: url('Images/login.jpg');
+    background: linear-gradient(rgba(11, 11, 11, 0.5), rgba(10, 10, 10, 0.5)), url("Images/login.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+}
+
+.employee_image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
